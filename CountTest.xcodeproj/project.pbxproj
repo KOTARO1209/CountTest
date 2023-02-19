@@ -15,6 +15,7 @@
 		99D8A59A2999DD3100D1CE61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99D8A5992999DD3100D1CE61 /* Assets.xcassets */; };
 		99D8A59D2999DD3100D1CE61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99D8A59B2999DD3100D1CE61 /* LaunchScreen.storyboard */; };
 		99D8A5A52999DDC700D1CE61 /* haikei.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 99D8A5A42999DDC700D1CE61 /* haikei.jpeg */; };
+		99E9FEA929A25CDC00466598 /* yamafont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 995AB87129A1546D00361305 /* yamafont.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -133,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				99E9FEA929A25CDC00466598 /* yamafont.ttf in Resources */,
 				99D8A59D2999DD3100D1CE61 /* LaunchScreen.storyboard in Resources */,
 				995AB87529A159EB00361305 /* nabeatsu.png in Resources */,
 				99D8A59A2999DD3100D1CE61 /* Assets.xcassets in Resources */,
